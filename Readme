@@ -1,0 +1,8 @@
+Telegram bot for maintenance of Crypto Telegram communities.
+
+A bot that connects to as many Telegram accounts as you want.
+Every user who connects to the bot will send a message in the community that you set in advance.
+The purpose of the script is to simulate activity in the community and generate interest among real users in your community.
+As of this moment the text file contains hundreds of possible "To the mooooon" style messages.
+There is a text file containing hundreds of possible messages, you can edit this file as you wish.
+
