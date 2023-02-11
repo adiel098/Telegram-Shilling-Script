@@ -1,4 +1,4 @@
-**Telegram shilling script for maintenance of Crypto Telegram communities.**
+Telegram shilling script for maintenance of Crypto Telegram communities.
 
 A script that connects to as many Telegram accounts as you want.
 Every user who connects to the bot will send a message in the community that you set in advance.
