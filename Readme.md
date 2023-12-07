@@ -19,6 +19,6 @@
 **Get started with this script and watch your community soar to new heights!** 🚀🌕
 
 ## 🖼️ Screenshot
-![Screenshot](adiel098/Telegram-Shilling-Script/screenshot.png)
+![Screenshot]screenshot.png)
 
 ---
